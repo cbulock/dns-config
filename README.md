@@ -1,2 +1,2 @@
-# hosts-file
+# DNS Config
 Home network DNS config
