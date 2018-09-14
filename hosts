@@ -1,0 +1,81 @@
+127.0.0.1	localhost
+
+# Network Devices
+10.0.0.1	router
+10.0.0.3	unifi
+192.168.100.1	modem
+10.10.10.10	dns
+10.10.10.11	dns2
+
+# Network Devices - Access Points
+10.0.0.10	basement.wap
+10.0.0.12	loft.wap
+10.0.0.13	backyard.wap
+
+# Network Devices - Switches
+10.0.0.31	primary.switch
+10.0.0.32	mc.switch
+10.0.0.33	poe.switch
+
+# Home Automation
+10.0.0.50	bulock.house
+10.50.0.10	ha
+10.0.3.1	wink
+10.50.0.12	osram
+10.50.0.13	lutron
+10.50.0.14	xiaomi
+10.50.0.51	garagedoor
+10.0.3.10	thermostat
+10.0.3.13	ring
+10.0.3.14	roomba
+
+# Home Automation - Remote controllers
+10.50.0.80	master.remote
+10.50.0.81	brett.remote
+
+# Home Automation - Google Home
+10.0.3.40	downstairs.gh
+10.0.3.41	master.gh
+10.0.3.42	hailey.gh
+10.0.3.43	brett.gh
+10.0.3.44	basement.gh
+
+# Media Players
+10.0.2.90	roku
+
+# Media Players- Chromecasts
+10.0.2.10	living.chromecast
+10.0.2.11	master.chromecast
+10.0.2.12	loft.chromecast
+10.0.2.13	basement.chromecast
+10.0.2.14	hailey.chromecast
+10.0.2.15	brett.chromecast
+
+# Media Players- Audio Chromecasts
+10.0.2.20	living.audio.chromecast
+10.0.2.21	hottub.audio.chromecast
+10.0.2.22	pergola.audio.chromecast
+
+# Gaming
+10.0.2.53	retropie
+10.0.2.54	ps4
+10.0.2.55	retroarch
+
+# Docker Hosts
+10.0.0.50	ha.docker main.docker nuc
+10.0.0.51	basement.docker
+
+# Data Storage
+10.0.0.25	nas
+10.0.0.26	nas2
+
+# Services
+10.0.0.20	app
+10.0.0.50	mqtt
+10.0.0.50	data
+10.0.0.50	proxy
+10.200.0.10	nagios
+
+# Printers
+10.0.0.100	printer
+10.0.0.101	3dprinter
