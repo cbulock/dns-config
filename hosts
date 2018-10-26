@@ -26,7 +26,7 @@
 10.50.0.14	xiaomi
 10.50.0.51	garagedoor
 10.0.3.10	thermostat
-10.0.3.13	ring
+10.0.3.13	doorbell
 10.0.3.14	roomba
 
 # Home Automation - Remote controllers
@@ -39,6 +39,7 @@
 10.0.3.42	hailey.gh
 10.0.3.43	brett.gh
 10.0.3.44	basement.gh
+10.0.3.50 kitchen.ghh
 
 # Media Players
 10.0.2.90	roku
