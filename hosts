@@ -80,4 +80,5 @@
 
 # Printers
 10.0.0.100	printer
-10.0.0.101	3dprinter
+10.0.0.101	select-mini.3dprinter
+10.0.0.102	mini-delta.3dprinter
