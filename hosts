@@ -9,20 +9,20 @@
 
 # Network Devices - Access Points
 10.0.0.10	basement.wap
-10.0.0.12	loft.wap
-10.0.0.13	backyard.wap
+10.0.0.11	backyard.wap
+10.0.0.12	east.wap
+10.0.0.13	west.wap
 
 # Network Devices - Switches
 10.0.0.31	primary.switch
-10.0.0.32	mc.switch
+10.0.0.32	media.switch
 10.0.0.33	poe.switch
+10.0.0.34 office.switch
 
-# Home Automation
+# Home Automation #TODO
 10.0.0.50	bulock.house
 10.50.0.10	ha
-10.50.0.12	osram
 10.50.0.13	lutron
-10.50.0.14	xiaomi
 10.50.0.51	garagedoor
 10.0.3.10	thermostat
 10.0.3.13	doorbell
@@ -30,9 +30,8 @@
 
 # Home Automation - Remote controllers
 10.50.0.80	master.remote
-10.50.0.81	brett.remote
 
-# Home Automation - Google Home
+# Home Automation - Google Home #TODO
 10.0.3.40	downstairs.gh
 10.0.3.41	basement.gh
 10.0.3.42	hailey.gh
@@ -41,10 +40,7 @@
 10.0.3.45 master.bathroom.gh
 10.0.3.50	kitchen.ghh
 
-# Media Players
-10.0.2.90	roku
-
-# Media Players- Chromecasts
+# Media Players- Chromecasts #TODO
 10.0.2.10	living.chromecast
 10.0.2.11	master.chromecast
 10.0.2.12	loft.chromecast
@@ -52,26 +48,26 @@
 10.0.2.14	hailey.chromecast
 10.0.2.15	brett.chromecast
 
-# Media Players- Audio Chromecasts
+# Media Players- Audio Chromecasts #TODO
 10.0.2.20	living.audio.chromecast
 10.0.2.21	hottub.audio.chromecast
 10.0.2.22	pergola.audio.chromecast
 
 # Gaming
-10.0.2.53	retropie
+10.0.2.52	living.retropie
+10.0.2.53	basement.retropie
 10.0.2.54	ps4
-10.0.2.55	retroarch
 
 # Docker Hosts
 10.0.0.50	ha.docker main.docker nuc
-10.0.0.51	basement.docker
+10.0.0.51	media.docker basement.docker
 
 # Data Storage
 10.0.0.25	nas
 10.0.0.26	nas2
+10.0.0.27 nas3
 
 # Services
-10.0.0.20	app
 10.0.0.50	mqtt
 10.0.0.50	data
 10.0.0.50	proxy
@@ -81,3 +77,8 @@
 10.0.0.100	printer
 10.0.0.101	kirk.3dprinter
 10.0.0.102	picard.3dprinter
+10.0.0.103	sisko.3dprinter
+
+Laundry #TODO
+10.50.0.90 washer
+10.50.0.91 dryer
