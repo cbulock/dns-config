@@ -19,6 +19,12 @@
 10.0.0.33	poe.switch
 10.0.0.34 office.switch
 
+# Network Devices - Coax
+10.0.0.60	rack.coax
+10.0.0.61	living.coax
+10.0.0.62	office.coax
+10.0.0.63	brett.coax
+
 # Home Automation #TODO
 10.0.0.50	bulock.house
 10.50.0.10	ha
