@@ -17,7 +17,7 @@
 10.0.0.31	primary.switch
 10.0.0.32	media.switch
 10.0.0.33	poe.switch
-10.0.0.34 office.switch
+10.0.0.34	office.switch
 
 # Network Devices - Coax
 10.0.0.60	rack.coax
@@ -35,6 +35,10 @@
 10.0.3.13	doorbell
 10.0.3.14	roomba
 
+Home Automation - Vacuums
+10.0.3.21	downstairs.roomba
+10.0.3.22	upstairs.roomba
+
 # Home Automation - Remote controllers
 10.50.0.80	master.remote
 
@@ -44,7 +48,7 @@
 10.0.3.42	hailey.gh
 10.0.3.43	brett.gh
 10.0.3.44	kids.bathroom.gh
-10.0.3.45 master.bathroom.gh
+10.0.3.45	master.bathroom.gh
 10.0.3.50	kitchen.ghh
 
 # Media Players- Chromecasts #TODO
@@ -72,7 +76,7 @@
 # Data Storage
 10.0.0.25	nas
 10.0.0.26	nas2
-10.0.0.27 nas3
+10.0.0.27	nas3
 
 # Services
 10.0.0.50	mqtt
