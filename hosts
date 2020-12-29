@@ -72,6 +72,7 @@ Home Automation - Vacuums
 # Docker Hosts
 10.0.0.50	ha.docker main.docker nuc
 10.0.0.51	media.docker basement.docker
+10.0.0.52 tools.docker
 
 # Data Storage
 10.0.0.25	nas
