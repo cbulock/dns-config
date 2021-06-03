@@ -10,14 +10,16 @@
 # Network Devices - Access Points
 10.0.0.10	basement.wap
 10.0.0.11	backyard.wap
-10.0.0.12	east.wap
-10.0.0.13	west.wap
+10.0.0.12	dining-room.wap
+10.0.0.13	office.wap
 
 # Network Devices - Switches
 10.0.0.31	primary.switch
 10.0.0.32	media.switch
 10.0.0.33	poe.switch
 10.0.0.34	office.switch
+10.0.0.35 cameron-desk.switch
+10.0.0.36 living-room.switch
 
 # Network Devices - Coax
 10.0.0.60	rack.coax
@@ -28,14 +30,25 @@
 
 # Home Automation #TODO
 10.0.0.50	bulock.house
-10.50.0.10	ha
-10.50.0.13	lutron
-10.50.0.51	garagedoor
+10.50.0.10 ha
+10.50.0.13 lutron
+10.50.0.21 plants
+10.50.0.51 garagedoor
 10.0.3.10	thermostat
 10.0.3.13	doorbell
 10.0.3.14	roomba
 
-Home Automation - Vacuums
+# Home Automation - Lighting
+10.50.1.41 craft-room-lamp
+10.50.1.42 deck-lights
+10.50.1.90 fireplace
+
+# Home Automation - Appliances
+10.0.0.70 dishwasher
+10.0.0.71 washer
+10.0.0.72 dryer
+
+# Home Automation - Vacuums
 10.0.3.21	downstairs.roomba
 10.0.3.22	upstairs.roomba
 
@@ -86,6 +99,7 @@ Home Automation - Vacuums
 10.0.0.50	proxy
 10.200.0.10	nagios
 10.0.0.110	plex
+10.0.3.30 sdr
 
 # Printers
 10.0.0.100	printer
