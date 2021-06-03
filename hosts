@@ -99,7 +99,6 @@
 10.0.0.50	proxy
 10.200.0.10	nagios
 10.0.0.110	plex
-10.0.3.30 sdr
 
 # Printers
 10.0.0.100	printer
