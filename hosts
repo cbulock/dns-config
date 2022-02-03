@@ -2,9 +2,9 @@
 
 # Network Devices
 10.0.0.1	router unifi
-192.168.100.1	modem
 10.10.10.10	dns
 10.10.10.11	dns2
+10.10.10.12	dns3
 
 # Network Devices - Access Points
 10.0.0.10	basement.wap
