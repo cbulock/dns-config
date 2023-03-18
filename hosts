@@ -5,6 +5,7 @@
 10.10.10.10	dns
 10.10.10.11	dns2
 10.10.10.12	dns3
+10.10.10.13 dns4
 
 # Network Devices - Access Points
 10.0.0.10	basement.wap
@@ -92,6 +93,7 @@
 10.0.0.27	nas3
 10.0.0.28 nas4
 10.0.0.29 nas5
+10.0.0.30 nas6
 
 # Services
 10.0.0.50	mqtt
