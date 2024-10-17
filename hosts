@@ -84,7 +84,8 @@
 # Docker Hosts
 10.0.0.50	ha.docker main.docker nuc
 10.0.0.51	media.docker basement.docker
-10.0.0.52 tools.docker speedtest.bulock.house
+10.0.0.52 tools.docker
+10.0.53 apps.docker
 
 # Data Storage
 10.0.0.25	nas
