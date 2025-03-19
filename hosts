@@ -20,6 +20,7 @@
 10.0.0.35 cameron-desk.switch
 10.0.0.36 living-room.switch
 10.0.0.37 garage.switch
+10.0.0.38 10gb.switch
 
 # Network Devices - Coax
 10.0.0.60	rack.coax
