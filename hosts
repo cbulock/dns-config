@@ -11,6 +11,8 @@
 10.0.0.11	backyard.wap
 10.0.0.12	dining-room.wap
 10.0.0.13	office.wap
+10.0.0.14	upstairs.wap
+10.0.0.15	garage.wap
 
 # Network Devices - Switches
 10.0.0.31	primary.switch
